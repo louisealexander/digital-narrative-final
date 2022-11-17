@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+#container{
+    background-color: #FBECD9;
+    height: 100vh;
+    font-family: "Bagerich";
+    color: #556E59;
+    font-weight: 400;
+    font-size: 4rem;
+    text-align: center;
+}
+#clickMe-button{
+    background-color: #556E59;
+    color: aliceblue;
+    width: 30%;
+    border-radius: 15px;
+    line-height: 10vh;
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+@font-face {
+    font-family: "Bagerich";
+    src: url("../fonts/FontsFree-Net-Bagerich.ttf");
+}
